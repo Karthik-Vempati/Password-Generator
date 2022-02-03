@@ -1,2 +1,2 @@
-# Pawword-Generator
+# Password-Generator
 Basic password generator
